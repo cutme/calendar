@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="36 -15 18 120" enable-background="new 36 -15 18 120" xml:space="preserve">
+<pattern  y="90" width="1.9" height="1.9" patternUnits="userSpaceOnUse" id="LIGHTGREYKNIT" viewBox="0 -1.9 1.9 1.9" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 1.9,0 1.9,-1.9 0,-1.9 		"/>
+		<g>
+			<polygon fill="none" points="0,-1.9 1.9,-1.9 1.9,0 0,0 			"/>
+			<polygon fill="#D5D5D6" points="1.9,-1.9 0,-1.9 0,0 1.9,0 			"/>
+			<path fill="#C5C5C7" d="M1-0.5C0.8-0.8,0.9-1.2,1-1.3c0.2-0.1,0.5,0.1,0.7,0.4s0.2,0.7,0,0.8C1.5,0.1,1.2-0.1,1-0.5z"/>
+			<path fill="#C5C5C7" d="M0.9-1c0.2-0.3,0.2-0.7,0-0.8C0.7-2,0.3-1.8,0.2-1.5C0-1.1,0-0.8,0.2-0.7C0.4-0.5,0.7-0.7,0.9-1z"/>
+		</g>
+	</g>
+</pattern>
+<pattern  y="90" width="1.9" height="1.9" patternUnits="userSpaceOnUse" id="REDKNIT" viewBox="0 -1.9 1.9 1.9" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 1.9,0 1.9,-1.9 0,-1.9 		"/>
+		<g>
+			<polygon fill="none" points="0,-1.9 1.9,-1.9 1.9,0 0,0 			"/>
+			<polygon fill="#E21E26" points="1.9,-1.9 0,-1.9 0,0 1.9,0 			"/>
+			<path fill="#A52423" d="M1-0.5C0.8-0.8,0.9-1.2,1-1.3c0.2-0.1,0.5,0.1,0.7,0.4s0.2,0.7,0,0.8C1.5,0.1,1.2-0.1,1-0.5z"/>
+			<path fill="#A52423" d="M0.9-1c0.2-0.3,0.2-0.7,0-0.8C0.7-2,0.3-1.8,0.2-1.5C0-1.1,0-0.8,0.2-0.7C0.4-0.5,0.7-0.7,0.9-1z"/>
+		</g>
+	</g>
+</pattern>
+<g>
+	<pattern  id="SVGID_1_" xlink:href="#REDKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<polygon fill="url(#SVGID_1_)" points="53.9,-14.8 36.2,-14.8 36.2,86.2 37.4,86.2 37.4,87.4 38.6,87.4 38.6,88.5 39.7,88.5 
+		39.7,89.7 40.9,89.7 40.9,90.9 42.1,90.9 42.1,92.1 43.3,92.1 43.3,93.3 44.5,93.3 44.5,94.5 45.6,94.5 45.6,93.3 46.8,93.3 
+		46.8,92.1 48,92.1 48,90.9 49.2,90.9 49.2,89.7 50.3,89.7 50.3,88.5 51.5,88.5 51.5,87.4 52.7,87.4 52.7,86.2 53.9,86.2 	"/>
+	<pattern  id="SVGID_2_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="44.5" y="86.2" fill="url(#SVGID_2_)" width="1.2" height="5.9"/>
+	<pattern  id="SVGID_3_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="43.3" y="89.7" fill="url(#SVGID_3_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_4_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="42.1" y="88.5" fill="url(#SVGID_4_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_5_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="45.6" y="89.7" fill="url(#SVGID_5_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_6_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="46.8" y="88.5" fill="url(#SVGID_6_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_7_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="67.3" fill="url(#SVGID_7_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_8_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="67.3" fill="url(#SVGID_8_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_9_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="64.9" fill="url(#SVGID_9_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_10_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="64.9" fill="url(#SVGID_10_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_11_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="62.5" fill="url(#SVGID_11_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_12_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="62.5" fill="url(#SVGID_12_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_13_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="60.2" fill="url(#SVGID_13_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_14_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="60.2" fill="url(#SVGID_14_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_15_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="57.8" fill="url(#SVGID_15_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_16_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="57.8" fill="url(#SVGID_16_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_17_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="55.4" fill="url(#SVGID_17_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_18_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="55.4" fill="url(#SVGID_18_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_19_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="53.1" fill="url(#SVGID_19_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_20_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="53.1" fill="url(#SVGID_20_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_21_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="50.8" fill="url(#SVGID_21_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_22_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="50.8" fill="url(#SVGID_22_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_23_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="48.4" fill="url(#SVGID_23_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_24_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="48.4" fill="url(#SVGID_24_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_25_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="46" fill="url(#SVGID_25_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_26_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="46" fill="url(#SVGID_26_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_27_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="43.7" fill="url(#SVGID_27_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_28_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="43.7" fill="url(#SVGID_28_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_29_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="41.3" fill="url(#SVGID_29_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_30_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="41.3" fill="url(#SVGID_30_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_31_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="38.9" fill="url(#SVGID_31_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_32_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="38.9" fill="url(#SVGID_32_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_33_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="36.6" fill="url(#SVGID_33_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_34_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="36.6" fill="url(#SVGID_34_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_35_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="34.2" fill="url(#SVGID_35_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_36_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="34.2" fill="url(#SVGID_36_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_37_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="31.8" fill="url(#SVGID_37_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_38_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="31.8" fill="url(#SVGID_38_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_39_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="29.5" fill="url(#SVGID_39_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_40_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="29.5" fill="url(#SVGID_40_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_41_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="27.1" fill="url(#SVGID_41_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_42_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="27.1" fill="url(#SVGID_42_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_43_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="24.7" fill="url(#SVGID_43_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_44_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="24.7" fill="url(#SVGID_44_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_45_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="22.4" fill="url(#SVGID_45_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_46_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="22.4" fill="url(#SVGID_46_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_47_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="20" fill="url(#SVGID_47_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_48_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="20" fill="url(#SVGID_48_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_49_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="17.7" fill="url(#SVGID_49_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_50_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="17.7" fill="url(#SVGID_50_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_51_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="15.3" fill="url(#SVGID_51_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_52_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="15.3" fill="url(#SVGID_52_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_53_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="12.9" fill="url(#SVGID_53_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_54_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="12.9" fill="url(#SVGID_54_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_55_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="10.6" fill="url(#SVGID_55_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_56_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="10.6" fill="url(#SVGID_56_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_57_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="8.2" fill="url(#SVGID_57_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_58_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="8.2" fill="url(#SVGID_58_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_59_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="5.8" fill="url(#SVGID_59_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_60_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="5.8" fill="url(#SVGID_60_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_61_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="3.5" fill="url(#SVGID_61_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_62_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="3.5" fill="url(#SVGID_62_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_63_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="1.1" fill="url(#SVGID_63_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_64_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="1.1" fill="url(#SVGID_64_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_65_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-1.3" fill="url(#SVGID_65_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_66_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-1.3" fill="url(#SVGID_66_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_67_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-3.6" fill="url(#SVGID_67_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_68_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-3.6" fill="url(#SVGID_68_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_69_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-6" fill="url(#SVGID_69_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_70_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-6" fill="url(#SVGID_70_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_71_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-8.4" fill="url(#SVGID_71_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_72_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-8.4" fill="url(#SVGID_72_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_73_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-10.7" fill="url(#SVGID_73_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_74_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-10.7" fill="url(#SVGID_74_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_75_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="37.4" y="-13.1" fill="url(#SVGID_75_)" width="1.2" height="1.2"/>
+	<pattern  id="SVGID_76_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+	</pattern>
+	<rect x="51.5" y="-13.1" fill="url(#SVGID_76_)" width="1.2" height="1.2"/>
+	<g>
+		<g>
+			<pattern  id="SVGID_77_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="64.9" fill="url(#SVGID_77_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_78_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="64.9" fill="url(#SVGID_78_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_79_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="62.5" fill="url(#SVGID_79_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_80_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="62.5" fill="url(#SVGID_80_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_81_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="63.7" fill="url(#SVGID_81_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_82_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="66.1" fill="url(#SVGID_82_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_83_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="66.1" fill="url(#SVGID_83_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_84_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="61.4" fill="url(#SVGID_84_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_85_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="61.4" fill="url(#SVGID_85_)" width="1.2" height="1.2"/>
+		</g>
+		<g>
+			<pattern  id="SVGID_86_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="53.1" fill="url(#SVGID_86_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_87_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="53.1" fill="url(#SVGID_87_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_88_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="50.8" fill="url(#SVGID_88_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_89_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="50.8" fill="url(#SVGID_89_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_90_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="51.9" fill="url(#SVGID_90_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_91_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="54.3" fill="url(#SVGID_91_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_92_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="54.3" fill="url(#SVGID_92_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_93_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="49.6" fill="url(#SVGID_93_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_94_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="49.6" fill="url(#SVGID_94_)" width="1.2" height="1.2"/>
+		</g>
+		<g>
+			<pattern  id="SVGID_95_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="41.3" fill="url(#SVGID_95_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_96_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="41.3" fill="url(#SVGID_96_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_97_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="38.9" fill="url(#SVGID_97_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_98_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="38.9" fill="url(#SVGID_98_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_99_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="40.1" fill="url(#SVGID_99_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_100_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="42.5" fill="url(#SVGID_100_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_101_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="42.5" fill="url(#SVGID_101_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_102_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="37.7" fill="url(#SVGID_102_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_103_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="37.7" fill="url(#SVGID_103_)" width="1.2" height="1.2"/>
+		</g>
+		<g>
+			<pattern  id="SVGID_104_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="29.5" fill="url(#SVGID_104_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_105_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="29.5" fill="url(#SVGID_105_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_106_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="27.1" fill="url(#SVGID_106_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_107_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="27.1" fill="url(#SVGID_107_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_108_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="28.3" fill="url(#SVGID_108_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_109_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="30.6" fill="url(#SVGID_109_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_110_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="30.6" fill="url(#SVGID_110_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_111_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="25.9" fill="url(#SVGID_111_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_112_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="25.9" fill="url(#SVGID_112_)" width="1.2" height="1.2"/>
+		</g>
+		<g>
+			<pattern  id="SVGID_113_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="17.7" fill="url(#SVGID_113_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_114_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="17.7" fill="url(#SVGID_114_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_115_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="15.3" fill="url(#SVGID_115_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_116_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="15.3" fill="url(#SVGID_116_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_117_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="16.5" fill="url(#SVGID_117_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_118_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="18.9" fill="url(#SVGID_118_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_119_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="18.9" fill="url(#SVGID_119_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_120_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="14.1" fill="url(#SVGID_120_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_121_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="14.1" fill="url(#SVGID_121_)" width="1.2" height="1.2"/>
+		</g>
+		<g>
+			<pattern  id="SVGID_122_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="5.8" fill="url(#SVGID_122_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_123_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="5.8" fill="url(#SVGID_123_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_124_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="45.6" y="3.5" fill="url(#SVGID_124_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_125_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="43.3" y="3.5" fill="url(#SVGID_125_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_126_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="44.4" y="4.7" fill="url(#SVGID_126_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_127_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="7" fill="url(#SVGID_127_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_128_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="7" fill="url(#SVGID_128_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_129_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="42.1" y="2.3" fill="url(#SVGID_129_)" width="1.2" height="1.2"/>
+			<pattern  id="SVGID_130_" xlink:href="#LIGHTGREYKNIT" patternTransform="matrix(0.3333 0 0 -0.3333 -5370.6665 -10877.1006)">
+			</pattern>
+			<rect x="46.8" y="2.3" fill="url(#SVGID_130_)" width="1.2" height="1.2"/>
+		</g>
+	</g>
+</g>
+</svg>

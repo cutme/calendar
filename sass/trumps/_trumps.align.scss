@@ -1,0 +1,19 @@
+.u-align--lb:after,
+.u-align--rb:after {
+	 @include align-items(flex-end);
+}
+
+.u-align--rb:after,
+.u-align--rt:after {
+	@include justify-content(flex-end);
+}
+
+.u-align--rt {
+	&:after {
+	    @include align-items(flex-start);
+	}
+}
+
+.u-pos--xy {
+	@include scut-center-transform;
+}

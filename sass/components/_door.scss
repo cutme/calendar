@@ -1,0 +1,51 @@
+.c-door {
+	@include perspective(550px);
+	@include transform-style(preserve-3d);
+	position: absolute; z-index: 10;
+	display: block;
+	width: 100%;
+	height: 100%;
+	border: 2px dotted white;
+	overflow: hidden;
+	cursor: pointer;
+	font-weight: 900;
+	
+	&__cover {
+		@include bg--red;
+	}
+	
+	&:after,
+	&__cover {
+		@include hover;
+		@include transition-duration(500ms);
+		@include transform-origin(0, 50%);
+		position: absolute;		
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		z-index: 10;
+	}
+
+	&:after {
+		@include antialias;
+		@include flexbox;
+		padding: 10px;
+		text-transform: uppercase;
+		line-height: 1;
+		font: {
+			family: $header;
+			size: em(30);
+		}
+		content: attr(data-letter);
+	}
+	
+	&__copy {
+		@include bg--grey-light;
+		@include box-shadow(rgba(black, .4) 0 0 10px inset);
+		position: absolute;
+		left: 0; top: 0;
+		width: 100%; height: 100%;
+		z-index: 5;
+	}
+}

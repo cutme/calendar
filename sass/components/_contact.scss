@@ -1,0 +1,75 @@
+.c-contact {
+	@include antialias;
+	text: {
+		align: center;
+		transform: uppercase;
+	}
+	color: white;
+	
+	&__firstline,
+	&__secondline {
+		font-family: $header;
+	}
+
+	&__firstline {
+		font: {
+			size: 32px;
+			weight: $bold;
+		}
+	}
+	
+	&__secondline {
+		font-size: 28px;
+	}
+	
+	&__dot {
+		width: 7px; height: 7px;
+		margin-bottom: 4px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: white;
+		
+		&:hover {
+			border-bottom: 1px solid white;
+		}
+	}
+	
+	&__or {
+		@include border-radius( 50% );
+		width: 32px; height: 32px;
+		line-height: 32px;
+		font-size: 20px;
+		color: $green;
+	}
+	
+	&__dot,
+	&__or {
+		@include border-radius( 50% );
+		display: inline-block;
+		background-color: white;
+		vertical-align: middle;
+	    margin: {
+	    	left: 10px;
+	    	right: 10px;
+	    }
+	}
+	
+	@media screen and ( max-width: 1100px ) {
+		&__firstline {
+			font-size: 28px;
+		}
+		
+		&__secondline {
+			font-size: 26px;
+		}
+	}
+	
+	@media screen and ( max-width: 800px ) {
+		&__or {
+			display: block;
+			margin: 10px auto;
+		}
+	}
+}

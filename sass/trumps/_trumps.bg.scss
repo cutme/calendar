@@ -1,0 +1,23 @@
+.u-bg--green {
+	background: {
+		image: url(../img/bg--green.svg);
+		size: 8px
+	}
+}
+
+.u-bg--grey-light {
+	@include bg--grey-light;
+}
+
+.u-bg--orange {
+	background: {
+		image: url(../img/bg--orange.svg);
+		size: 8px
+	}
+}
+
+.u-bg--red {
+	@include bg--red;
+}
+
+

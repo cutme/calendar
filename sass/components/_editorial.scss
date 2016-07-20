@@ -1,0 +1,61 @@
+.c-editorial {
+	line-height: 1.4;
+	color: white;
+
+	.c-calendar__footer & {
+		padding: 20px 0;
+		border-top: 2px dotted white;
+		border-bottom: 2px dotted white;
+	}
+	
+	.c-calendar__top & {
+		margin-bottom: 70px;
+	}
+
+	p {
+		@include antialias;
+		margin-bottom: 20px;
+		font: {
+			family: $text;
+			size: 16px;
+			weight: $bold;
+		}
+	}
+	
+	&__col {
+		@include box-sizing(border-box);
+		
+		&--left {			
+			
+		}		
+	}
+	
+	@media screen and ( min-width: 801px ) {
+		&__col {
+			float: left;
+			
+			&--left {
+				width: grid(380);
+				padding-right: 20px;
+				
+				.c-calendar__bottom & {
+					border-right: 4px solid white;
+				}
+			}
+			
+			&--right {
+				width: grid(720);
+			}
+		}
+	}
+	
+	@media screen and ( max-width: 800px ) {
+		&__col {
+			text-align: center;
+			
+			&--left {
+				margin-bottom: 20px;
+			}
+		}
+	}
+}

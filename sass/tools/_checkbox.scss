@@ -1,0 +1,55 @@
+span.ui-checkbox,
+span.ui-radio {
+	@include border-radius( 5px );
+	display: block;
+	position: relative;
+	bottom: -2px;
+	float: left;
+	width: 16px; height: 16px;
+	margin-right: 8px;
+	text-align: center;
+	line-height: 16px;
+	background-color: #2da491;
+	font-size: 8px;
+	cursor: pointer;
+
+	&:before {
+		@include background-size('cover');
+		display: none;
+		position: absolute;
+		left: 3px; top: 3px;
+		width: 10px; height: 10px;
+		background-image: url('../img/checkmark.png');
+		content: ' ';
+	}
+}
+
+span.ui-helper-hidden {
+	display: none;
+}
+
+span.ui-checkbox-state-checked {
+	&:before {
+		display: block;
+	}
+}
+
+span.ui-checkbox-state-checked-hover {
+	background-color: darken( $green, 5% );
+	
+	&:before {
+		display: block;
+	}
+}
+
+span.ui-radio-state-checked,
+span.ui-radio-state-checked-hover {
+	&:before {
+		display: block;
+	}
+}
+
+.ui-helper-hidden-accessible {
+	position: absolute;
+	left: -999em;
+}

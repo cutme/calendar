@@ -1,0 +1,26 @@
+@import "compass/css3";
+
+@import "settings/colors";
+@import "settings/global";
+
+@import "tools/flexbox";
+@import "tools/functions";
+@import "tools/mixins";
+@import "tools/clear";
+@import "tools/scut";
+
+@import "components/calendar";
+@import "components/contact";
+@import "components/door";
+@import "components/editorial";
+@import "components/more";
+
+@import "trumps/trumps";
+@import "trumps/trumps.align";
+@import "trumps/trumps.bg";
+
+body, html {	
+	width: 100%;
+	min-height: 100%;
+}
+

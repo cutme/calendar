@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 80" enable-background="new 0 0 60 80" xml:space="preserve">
+<pattern  width="5.7" height="5.7" patternUnits="userSpaceOnUse" id="GREENKNIT" viewBox="0 -5.7 5.7 5.7" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 5.7,0 5.7,-5.7 0,-5.7 		"/>
+		<polygon fill="#4CA246" points="5.7,0 0,0 0,-5.7 5.7,-5.7 		"/>
+		<path fill="#5E7835" d="M3.1-4.3c-0.6,1-0.5,2.1,0,2.4c0.6,0.3,1.5-0.2,2.1-1.2c0.6-1,0.5-2.1,0-2.4C4.6-5.9,3.7-5.3,3.1-4.3z"/>
+		<path fill="#5E7835" d="M2.6-2.6c0.6,1,0.5,2.1,0,2.4C2,0.2,1-0.3,0.5-1.3c-0.6-1-0.5-2.1,0-2.4C1.1-4.1,2-3.5,2.6-2.6z"/>
+	</g>
+</pattern>
+<path fill="url(#GREENKNIT)" d="M32.9,77.3v-2.8h-2.8v2.8H32.9z M35.7,74.5v-2.8h-2.8v2.8H35.7z M38.4,71.7V69h-2.8v2.8H38.4z
+	 M13.6,69v-5.5h-2.8V69H13.6z M8,57.9H5.3v5.5H8V57.9z M5.3,52.4H2.5v5.5h2.8V52.4z M41.2,69v-2.8h-2.8V69H41.2z M5.3,80v-2.8H2.5
+	V80H5.3z M10.8,74.5V69H8v2.8H5.3v5.5H8v-2.8H10.8z M21.8,8.3V11h5.5V8.3H21.8z M10.8,5.5V11h2.8V5.5H10.8z M10.8,2.7h2.8V0h-2.8
+	V2.7z M-0.2,46.9v5.5h2.8v-2.8H8v2.8h2.8v2.8h2.8v8.3h2.8v-5.5h2.8v-2.8h2.8v-2.8h13.8v5.5h2.8v5.5h2.8v2.8h2.8V52.4h2.8v5.5h5.5
+	v2.8H55v5.5h2.8v-8.3H55v-2.8h-2.8v-5.5H55v-8.3h5.5v-5.5h-2.8v2.8h-8.3v-2.8h-5.5v-2.8h-2.8v2.8H24.6v-2.8h-2.8v-2.8h-2.8v-5.5
+	h-2.8v-2.8h2.8v-8.3h-5.5v2.8h-2.8V11H8V8.3H5.3V11H2.5v2.8h2.8v2.8H8v2.8H5.3v5.5H2.5v2.8H8v2.8H5.3v8.3H2.5v5.5h2.8v2.8H-0.2z
+	 M16.3,0v2.8h2.8V0H16.3z M13.6,2.7v2.8h2.8V2.7H13.6z M30.1,0v2.8h2.8V0H30.1z M27.4,2.7v5.5h5.5V5.5h-2.8V2.7H27.4z M19.1,11v2.8
+	h2.8V11H19.1z M60.5,66.2h-2.8v5.5h2.8V66.2z M57.7,77.3v-5.5H55v5.5H57.7z"/>
+</svg>

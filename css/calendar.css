@@ -1,0 +1,458 @@
+.clearfix {
+  clear: both; }
+  .clearfix:after {
+    clear: both;
+    display: block;
+    content: ''; }
+
+.c-calendar {
+  background-image: url(../img/bg--red.svg);
+  background-size: 8px;
+  padding-top: 20px;
+  color: white; }
+  .c-calendar__bottom {
+    position: relative;
+    background-image: url(../img/bg--green.svg);
+    background-size: 8px;
+    padding: 60px 0; }
+    .c-calendar__bottom:before {
+      position: absolute;
+      left: 0;
+      top: -30px;
+      display: block;
+      width: 100%;
+      height: 21px;
+      background-image: url(../img/pattern-bottom.svg);
+      background-size: 70px 21px;
+      background-repeat: repeat-x;
+      content: ' '; }
+  .c-calendar__content {
+    padding-bottom: 200px; }
+  .c-calendar__header {
+    background-image: url(../img/pattern-top.svg);
+    background-size: 70px 21px;
+    background-repeat: repeat-x;
+    margin-bottom: 40px; }
+    .c-calendar__header .c-calendar__wrap {
+      padding-top: 70px;
+      padding-bottom: 20px;
+      border-bottom: 2px dotted white; }
+  .c-calendar__lead {
+    text-transform: uppercase;
+    line-height: 0.8;
+    font-family: "Miso";
+    font-size: 88px;
+    font-weight: 700; }
+  .c-calendar__item, .c-calendar__sizer {
+    width: 10.54545%;
+    height: 116px; }
+    @media screen and (max-width: 800px) {
+      .c-calendar__item, .c-calendar__sizer {
+        width: 13.63636%;
+        height: 96px; } }
+    @media screen and (max-width: 640px) {
+      .c-calendar__item, .c-calendar__sizer {
+        width: 22.27273%;
+        height: 86px; } }
+    @media screen and (max-width: 480px) {
+      .c-calendar__item, .c-calendar__sizer {
+        width: 30.90909%; } }
+  .c-calendar__gutter-sizer {
+    width: 4.36364%; }
+    @media screen and (max-width: 800px) {
+      .c-calendar__gutter-sizer {
+        width: 3.63636%; } }
+  .c-calendar__item {
+    -webkit-transition-property: none;
+    -moz-transition-property: none;
+    -o-transition-property: none;
+    transition-property: none;
+    position: relative;
+    margin-bottom: 48px;
+    -webkit-tap-highlight-color: transparent;
+    color: white; }
+    .c-calendar__item.stamp {
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 165px;
+      margin: 0; }
+    @media screen and (max-width: 800px) {
+      .c-calendar__item {
+        margin-bottom: 28px; } }
+    @media screen and (max-width: 640px) {
+      .c-calendar__item {
+        margin-bottom: 18px; } }
+    .no-mobile .c-calendar__item:hover .c-door:after,
+    .no-mobile .c-calendar__item:hover .c-door__cover {
+      -webkit-transform: rotateY(86deg) scale(0.6, 1);
+      -moz-transform: rotateY(86deg) scale(0.6, 1);
+      -ms-transform: rotateY(86deg) scale(0.6, 1);
+      -o-transform: rotateY(86deg) scale(0.6, 1);
+      transform: rotateY(86deg) scale(0.6, 1); }
+    .c-calendar__item:hover .c-more {
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+      opacity: 1; }
+  .c-calendar__title {
+    margin-right: 30px;
+    text-transform: uppercase;
+    line-height: .9;
+    font-family: "Miso";
+    font-size: 92px; }
+  .c-calendar__wrap {
+    max-width: 1100px;
+    margin: 0 auto; }
+  @media screen and (max-width: 1100px) {
+    .c-calendar {
+      padding-left: 20px;
+      padding-right: 20px; }
+      .c-calendar__bottom .c-calendar__wrap {
+        padding-left: 20px;
+        padding-right: 20px; } }
+  @media screen and (max-width: 800px) {
+    .c-calendar__title {
+      font-size: 80px; } }
+  @media screen and (max-width: 640px) {
+    .c-calendar__item.stamp {
+      width: 250px;
+      height: 120px; }
+    .c-calendar__lead {
+      font-size: 70px; } }
+  @media screen and (max-width: 480px) {
+    .c-calendar__item.stamp {
+      width: 200px;
+      height: 105px; }
+    .c-calendar__lead {
+      font-size: 60px; } }
+
+.c-contact {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  text-transform: uppercase;
+  color: white; }
+  .c-contact__firstline, .c-contact__secondline {
+    font-family: "Miso"; }
+  .c-contact__firstline {
+    font-size: 32px;
+    font-weight: 700; }
+  .c-contact__secondline {
+    font-size: 28px; }
+  .c-contact__dot {
+    width: 7px;
+    height: 7px;
+    margin-bottom: 4px; }
+  .c-contact a {
+    text-decoration: none;
+    color: white; }
+    .c-contact a:hover {
+      border-bottom: 1px solid white; }
+  .c-contact__or {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #558c25; }
+  .c-contact__dot, .c-contact__or {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-right: 10px; }
+  @media screen and (max-width: 1100px) {
+    .c-contact__firstline {
+      font-size: 28px; }
+    .c-contact__secondline {
+      font-size: 26px; } }
+  @media screen and (max-width: 800px) {
+    .c-contact__or {
+      display: block;
+      margin: 10px auto; } }
+
+.c-door {
+  -webkit-perspective: 550px;
+  -moz-perspective: 550px;
+  -ms-perspective: 550px;
+  -o-perspective: 550px;
+  perspective: 550px;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  position: absolute;
+  z-index: 10;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 2px dotted white;
+  overflow: hidden;
+  cursor: pointer;
+  font-weight: 900; }
+  .c-door__cover {
+    background-image: url(../img/bg--red.svg);
+    background-size: 8px; }
+  .c-door:after, .c-door__cover {
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -webkit-transition-duration: 300ms;
+    -moz-transition-duration: 300ms;
+    -o-transition-duration: 300ms;
+    transition-duration: 300ms;
+    -webkit-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+    -webkit-transition-duration: 500ms;
+    -moz-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms;
+    -webkit-transform-origin: 0 50%;
+    -moz-transform-origin: 0 50%;
+    -ms-transform-origin: 0 50%;
+    -o-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10; }
+  .c-door:after {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Miso";
+    font-size: 1.66667em;
+    content: attr(data-letter); }
+  .c-door__copy {
+    background-image: url(../img/bg--grey-light.svg);
+    background-size: 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px inset;
+    -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px inset;
+    box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px inset;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5; }
+
+.c-editorial {
+  line-height: 1.4;
+  color: white; }
+  .c-calendar__footer .c-editorial {
+    padding: 20px 0;
+    border-top: 2px dotted white;
+    border-bottom: 2px dotted white; }
+  .c-calendar__top .c-editorial {
+    margin-bottom: 70px; }
+  .c-editorial p {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700; }
+  .c-editorial__col {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
+  @media screen and (min-width: 801px) {
+    .c-editorial__col {
+      float: left; }
+      .c-editorial__col--left {
+        width: 34.54545%;
+        padding-right: 20px; }
+        .c-calendar__bottom .c-editorial__col--left {
+          border-right: 4px solid white; }
+      .c-editorial__col--right {
+        width: 65.45455%; } }
+  @media screen and (max-width: 800px) {
+    .c-editorial__col {
+      text-align: center; }
+      .c-editorial__col--left {
+        margin-bottom: 20px; } }
+
+.c-more {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-box-shadow: #d60000 0 0 6px inset;
+  -moz-box-shadow: #d60000 0 0 6px inset;
+  box-shadow: #d60000 0 0 6px inset;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 300ms;
+  -moz-transition-duration: 300ms;
+  -o-transition-duration: 300ms;
+  transition-duration: 300ms;
+  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+  display: block;
+  z-index: 6;
+  width: 50px;
+  height: 50px;
+  background-color: #ff0000;
+  margin: 10px auto 0 auto;
+  padding-top: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Miso";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: .8;
+  white-space: normal; }
+
+.u-block {
+  display: block;
+  margin: 0 auto; }
+
+.u-inline {
+  display: inline-block;
+  vertical-align: middle; }
+  .u-inline.c-more {
+    margin: 0 0 0 20px; }
+
+.u-nowrap {
+  white-space: nowrap; }
+
+.star-1, .star-2 {
+  position: absolute; }
+
+.star-1 {
+  right: 0;
+  bottom: 80px; }
+
+.star-2 {
+  left: 0;
+  bottom: 140px; }
+
+.u-push--left {
+  float: left; }
+
+.u-size--2x {
+  width: 25.45455%; }
+  @media screen and (max-width: 800px) {
+    .u-size--2x {
+      width: 48.18182%; } }
+  @media screen and (max-width: 640px) {
+    .u-size--2x {
+      width: 74.09091%; } }
+  @media screen and (max-width: 480px) {
+    .u-size--2x {
+      width: 65.45455%; } }
+
+.u-size--2y {
+  height: 280px; }
+
+.u-textsize--1, .u-textsize--2, .u-textsize--3 {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700; }
+
+.u-textsize--1 {
+  margin: 0;
+  line-height: 1;
+  text-transform: uppercase;
+  font-family: "Miso";
+  font-size: 44px; }
+  @media screen and (max-width: 1100px) {
+    .u-textsize--1 {
+      font-size: 34px; } }
+
+.u-textsize--2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 26px; }
+
+.u-textsize--3 {
+  text-transform: uppercase;
+  font-family: "Miso";
+  font-size: 32px; }
+
+.u-align--lb:after,
+.u-align--rb:after {
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  -webkit-align-items: flex-end;
+  -moz-align-items: flex-end;
+  align-items: flex-end; }
+
+.u-align--rb:after,
+.u-align--rt:after {
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  -webkit-justify-content: flex-end;
+  -moz-justify-content: flex-end;
+  justify-content: flex-end; }
+
+.u-align--rt:after {
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  -webkit-align-items: flex-start;
+  -moz-align-items: flex-start;
+  align-items: flex-start; }
+
+.u-pos--xy {
+  position: absolute;
+  top: 50%;
+  margin-top: auto;
+  margin-bottom: auto;
+  left: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); }
+
+.u-bg--green {
+  background-image: url(../img/bg--green.svg);
+  background-size: 8px; }
+
+.u-bg--grey-light {
+  background-image: url(../img/bg--grey-light.svg);
+  background-size: 8px; }
+
+.u-bg--orange {
+  background-image: url(../img/bg--orange.svg);
+  background-size: 8px; }
+
+.u-bg--red {
+  background-image: url(../img/bg--red.svg);
+  background-size: 8px; }
+
+body, html {
+  width: 100%;
+  min-height: 100%; }
