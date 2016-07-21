@@ -1,10 +1,7 @@
 .c-calendar {
 	@include bg--red;
-	//height: 100%;
-	//min-height: 100%;
 	padding: {
 		top: 20px;
-		//bottom: 100px;
 	}
 	color: white;
 
@@ -26,13 +23,11 @@
 				repeat: repeat-x;
 			}
 			content: ' ';
-		}
-		
-		
+		}		
 	}
 	
 	&__content {
-		padding-bottom: 200px;
+		padding-bottom: 100px;
 	}
 
 	&__header {
@@ -41,12 +36,12 @@
 			size: 70px 21px;
 			repeat: repeat-x;
 		}
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 		
 		.c-calendar__wrap {
 			padding: {
-				top: 70px;
-				bottom: 20px;
+				top: 50px;
+				bottom: 10px;
 			}
 			border-bottom: 2px dotted white;
 		}
@@ -59,7 +54,11 @@
 			family: $header;
 			size: 88px;
 			weight: $bold;
-		}		
+		}
+		
+		.mobile & {
+			letter-spacing: -3px;
+		}	
 	}
 
 	&__item,
@@ -141,8 +140,7 @@
 		max-width: 1100px;
 		margin: 0 auto;	
 	}
-	
-	
+
 	@media screen and ( max-width: 1100px ) {
 		padding: {
 			left: 20px;
@@ -166,6 +164,21 @@
 	}
 	
 	@media screen and ( max-width: 640px ) {
+		padding: {
+			left: 10px;
+			right: 10px;
+		}
+		
+		&__bottom {
+			padding: 40px 0;
+		}
+		
+		&__header {
+			.star {
+				display: none;
+			}
+		}
+		
 		&__item {
 			&.stamp {
 				width: 250px;
@@ -187,6 +200,10 @@
 		}
 		
 		&__lead {
+			font-size: 60px;
+		}
+		
+		&__title {
 			font-size: 60px;
 		}
 	}

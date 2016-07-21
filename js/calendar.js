@@ -20,12 +20,13 @@ jQuery(function($) {
 				var item = $('.c-calendar__item');
 				function openUrl(url) {
 					window.location.href = url;
-				}			
+				}
+				
 				function desktop() {
 					item.on('click', function() {
 						var _t = $(this);
 						_t.toggleClass('is-open');
-						openUrl(_t.attr('data-url'));
+						//openUrl(_t.attr('data-url'));
 					});
 				}
 				function mobile() {
@@ -41,8 +42,25 @@ jQuery(function($) {
 				}				
 				$('html').hasClass('mobile') ? mobile() : desktop();
 			};
-			nav();
+			//nav();
 		}
+		
+		 function popup() {
+			$('.js-modal').magnificPopup({
+				type: 'inline',
+				//closeBtnInside: true,
+				preloader: false,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
+
+			$(document).on('click', '.popup-modal-dismiss', function (e) {
+				e.preventDefault();
+				$.magnificPopup.close();
+			});
+		}
+
 		exist('.js-calendar') && advent_calendar();
+		exist('.js-modal') && popup();
 	});
 });

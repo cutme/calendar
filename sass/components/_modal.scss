@@ -1,0 +1,19 @@
+.modal {
+	@include box-sizing(border-box);
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 40px;
+	background-color: #e9eff1;
+	
+	@media screen and ( max-width: 600px ) {
+		padding: 40px 20px;
+		font-size: 90%;
+	}
+	
+	@media screen and ( max-width: 480px ) {
+		padding: 20px 10px;
+		font-size: 70%;
+	}
+	
+}
+

@@ -80,6 +80,10 @@
 			size: em(30);
 		}
 		content: attr(data-letter);
+		
+		.mobile & {
+			letter-spacing: -2px;
+		}
 	}
 	
 	&__copy {
