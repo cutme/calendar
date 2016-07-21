@@ -90,9 +90,14 @@
       -ms-transform: rotateY(86deg) scale(0.6, 1);
       -o-transform: rotateY(86deg) scale(0.6, 1);
       transform: rotateY(86deg) scale(0.6, 1); }
-    .c-calendar__item:hover .c-more {
+    .c-calendar__item:hover .c-door__inside {
       filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
-      opacity: 1; }
+      opacity: 1;
+      -webkit-transform: translate(-50%, -50%) rotate(0) scale(1);
+      -moz-transform: translate(-50%, -50%) rotate(0) scale(1);
+      -ms-transform: translate(-50%, -50%) rotate(0) scale(1);
+      -o-transform: translate(-50%, -50%) rotate(0) scale(1);
+      transform: translate(-50%, -50%) rotate(0) scale(1); }
   .c-calendar__title {
     margin-right: 30px;
     text-transform: uppercase;
@@ -155,7 +160,7 @@
     border-radius: 50%;
     width: 32px;
     height: 32px;
-    line-height: 32px;
+    line-height: 34px;
     font-size: 20px;
     color: #558c25; }
   .c-contact__dot, .c-contact__or {
@@ -199,6 +204,76 @@
   overflow: hidden;
   cursor: pointer;
   font-weight: 900; }
+  .c-door__inside {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-transition-duration: 600ms;
+    -moz-transition-duration: 600ms;
+    -o-transition-duration: 600ms;
+    transition-duration: 600ms;
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    transition-property: all;
+    -webkit-transition-delay: 300ms;
+    -moz-transition-delay: 300ms;
+    -o-transition-delay: 300ms;
+    transition-delay: 300ms;
+    -webkit-transition-timing-function: cubic-bezier(0.87, -0.41, 0.19, 1.44);
+    -moz-transition-timing-function: cubic-bezier(0.87, -0.41, 0.19, 1.44);
+    -o-transition-timing-function: cubic-bezier(0.87, -0.41, 0.19, 1.44);
+    transition-timing-function: cubic-bezier(0.87, -0.41, 0.19, 1.44); }
+    .c-door__inside--left {
+      -webkit-transform: translate(-100%, -50%) rotate(-50deg);
+      -moz-transform: translate(-100%, -50%) rotate(-50deg);
+      -ms-transform: translate(-100%, -50%) rotate(-50deg);
+      -o-transform: translate(-100%, -50%) rotate(-50deg);
+      transform: translate(-100%, -50%) rotate(-50deg); }
+    .c-door__inside--right {
+      -webkit-transform: translate(100%, -50%) rotate(50deg);
+      -moz-transform: translate(100%, -50%) rotate(50deg);
+      -ms-transform: translate(100%, -50%) rotate(50deg);
+      -o-transform: translate(100%, -50%) rotate(50deg);
+      transform: translate(100%, -50%) rotate(50deg); }
+    .c-door__inside--top {
+      -webkit-transform: translate(-50%, -100%) rotate(-120deg);
+      -moz-transform: translate(-50%, -100%) rotate(-120deg);
+      -ms-transform: translate(-50%, -100%) rotate(-120deg);
+      -o-transform: translate(-50%, -100%) rotate(-120deg);
+      transform: translate(-50%, -100%) rotate(-120deg);
+      -webkit-transition-duration: 1000ms;
+      -moz-transition-duration: 1000ms;
+      -o-transition-duration: 1000ms;
+      transition-duration: 1000ms; }
+    .c-door__inside--bottom {
+      -webkit-transform: translate(-50%, 100%) rotate(-120deg);
+      -moz-transform: translate(-50%, 100%) rotate(-120deg);
+      -ms-transform: translate(-50%, 100%) rotate(-120deg);
+      -o-transform: translate(-50%, 100%) rotate(-120deg);
+      transform: translate(-50%, 100%) rotate(-120deg);
+      -webkit-transition-duration: 1000ms;
+      -moz-transition-duration: 1000ms;
+      -o-transition-duration: 1000ms;
+      transition-duration: 1000ms; }
+    .c-door__inside--toponly {
+      -webkit-transform: translate(-50%, -100%);
+      -moz-transform: translate(-50%, -100%);
+      -ms-transform: translate(-50%, -100%);
+      -o-transform: translate(-50%, -100%);
+      transform: translate(-50%, -100%); }
+    .c-door__inside--scale {
+      -webkit-transform: translate(-50%, -50%) scale(0.1);
+      -moz-transform: translate(-50%, -50%) scale(0.1);
+      -ms-transform: translate(-50%, -50%) scale(0.1);
+      -o-transform: translate(-50%, -50%) scale(0.1);
+      transform: translate(-50%, -50%) scale(0.1); }
   .c-door__cover {
     background-image: url(../img/bg--red.svg);
     background-size: 8px; }
@@ -321,18 +396,26 @@
   transition-timing-function: ease-in-out;
   display: block;
   z-index: 6;
-  width: 50px;
-  height: 50px;
+  width: 54px;
+  height: 54px;
   background-color: #ff0000;
-  margin: 10px auto 0 auto;
+  margin: 0 auto;
   padding-top: 11px;
   text-align: center;
   text-transform: uppercase;
   font-family: "Miso";
   font-size: 18px;
   font-weight: 700;
-  line-height: .8;
+  line-height: .9;
   white-space: normal; }
+  .c-more:hover {
+    background-color: #cc0000; }
+  .u-size--2y.u-size--2x .c-more {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2); }
 
 .u-block {
   display: block;

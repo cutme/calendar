@@ -119,9 +119,10 @@
 					@include transform(rotateY(86deg) scale(.6, 1));
 				}
 			}
-			
-			.c-more {
+
+			.c-door__inside {
 				@include opacity(1);
+				@include transform(translate(-50%, -50%) rotate(0) scale(1));
 			}
 		}
 	}
